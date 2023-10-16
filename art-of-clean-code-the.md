@@ -21,3 +21,4 @@ ch4
             "DRY"
             "WET" - waste everyone's time
     10. Single responsibility principle 
+  
