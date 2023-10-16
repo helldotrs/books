@@ -21,4 +21,8 @@ ch4
             "DRY"
             "WET" - waste everyone's time
     10. Single responsibility principle 
+    11. Test
+    12. Small is Beautiful
+      Avoid "God Objects" / monolithic code blocks
+    13. 
   
