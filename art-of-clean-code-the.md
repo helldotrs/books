@@ -23,6 +23,8 @@ ch4
     10. Single responsibility principle 
     11. Test
     12. Small is Beautiful
-      Avoid "God Objects" / monolithic code blocks
-    13. 
+        Avoid "God Objects" / monolithic code blocks
+    13. The law of Demeter
+        An object should only communicate with its immediate neighbors
+    14. 
   
