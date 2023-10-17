@@ -1,36 +1,36 @@
-ch4
-  Writing clean code: the principles:
-    1.  Think about the big picture
-    2.  Stand on the shoulders of giants
-            use libs
-    3.  Code for people, not machines
-            people including your future self
-    4.  Use the right names
-            4.1 descriptive name
-                  clearer better: usd_to_eur(amount) > dollar_to_euro(amount) 
-            4.2 unambiguous names
-            4.3 pronounceable names
-            4.4 named constants, not magic numbers
-    5.  Adhere to standards
-    6.  Use comments
-            but dont overdo it
-    7.  Avoid unnecessary comments
-            dont comment whats self-explinary, may confuse and clutter makes code harder to read
-    8.  The principle of least surprise
-    9.  Dont repeat yourself
-            "DRY"
-            "WET" - waste everyone's time
-    10. Single responsibility principle 
-    11. Test
-    12. Small is Beautiful
-            Avoid "God Objects" / monolithic code blocks
-    13. The law of Demeter
-            An object should only communicate with its immediate neighbors
-    14. You aint gonna need it
-    15. Dont use too many levels of indentation
-    16. Use metric
-            to track complexity
-    17. Boy scout rule and refactoring
-            "Leave the campground cleaner than you found it"
-        
-  
+# Chapter 4
+
+## Writing Clean Code: The Principles
+
+1. **Think About the Big Picture**
+2. **Stand on the Shoulders of Giants**
+   - Use libraries.
+3. **Code for People, Not Machines**
+   - People, including your future self.
+4. **Use the Right Names**
+   - **4.1 Descriptive Names**
+     - Clearer is better: `usd_to_eur(amount)` > `dollar_to_euro(amount)`
+   - **4.2 Unambiguous Names**
+   - **4.3 Pronounceable Names**
+   - **4.4 Named Constants, Not Magic Numbers**
+5. **Adhere to Standards**
+6. **Use Comments**
+   - But don't overdo it.
+7. **Avoid Unnecessary Comments**
+   - Don't comment what's self-explanatory; it may confuse and clutter, making code harder to read.
+8. **The Principle of Least Surprise**
+9. **Don't Repeat Yourself (DRY)**
+   - "WET" - Waste Everyone's Time.
+10. **Single Responsibility Principle**
+11. **Test**
+12. **Small is Beautiful**
+   - Avoid "God Objects" / monolithic code blocks.
+13. **The Law of Demeter**
+   - An object should only communicate with its immediate neighbors.
+14. **You Ain't Gonna Need It**
+15. **Don't Use Too Many Levels of Indentation**
+16. **Use Metrics**
+   - To track complexity.
+17. **Boy Scout Rule and Refactoring**
+   - "Leave the campground cleaner than you found it."
+
