@@ -23,8 +23,14 @@ ch4
     10. Single responsibility principle 
     11. Test
     12. Small is Beautiful
-        Avoid "God Objects" / monolithic code blocks
+            Avoid "God Objects" / monolithic code blocks
     13. The law of Demeter
-        An object should only communicate with its immediate neighbors
-    14. 
+            An object should only communicate with its immediate neighbors
+    14. You aint gonna need it
+    15. Dont use too many levels of indentation
+    16. Use metric
+            to track complexity
+    17. Boy scout rule and refactoring
+            "Leave the campground cleaner than you found it"
+        
   
