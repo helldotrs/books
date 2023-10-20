@@ -44,3 +44,4 @@
 3. **Small is beautiful**
   - further reading: https://martinfowler.com/articles/microservices.html
 4. **Build a prototype as soon as possible**
+5. **Choose portability over efficiency**
