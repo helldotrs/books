@@ -39,7 +39,7 @@
 ## 15 Useful Unix Principles
 
 
-1. **Make eache function do one thing well**
+1. **Make each function do one thing well**
 2. **Simple is better than complex**
 3. **Small is beautiful**
   - further reading: https://martinfowler.com/articles/microservices.html
@@ -47,3 +47,4 @@
 5. **Choose portability over efficiency**
 6. **Store data in flat text files**
   - CSV
+  - Database (optimization) for larger projects.
