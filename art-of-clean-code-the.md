@@ -34,3 +34,6 @@
 17. **Boy Scout Rule and Refactoring**
    - "Leave the campground cleaner than you found it."
 
+# Chapter 7
+
+## 15 Useful Unix Principles
