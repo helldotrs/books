@@ -42,3 +42,4 @@
 1. **Make eache function do one thing well**
 2. **Simple is better than complex**
 3. **Small is beautiful**
+4. **Build a prototype as soon as possible**
