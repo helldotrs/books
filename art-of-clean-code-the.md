@@ -48,3 +48,17 @@
 6. **Store data in flat text files**
   - CSV
   - Database (optimization) for larger projects.
+7. **Use software leverage to your advantage**
+  - Use libraries
+  - Seek feedback
+  - Automate
+8. **Avoid captive UI**
+  - Limits the use of software
+9. **Make every program a filter**
+  - Return the same data type. Unless the program is a type converter (should do this and this only, DOTADIW)
+10. **Worse is better**
+  - Don't take this principle too literally.
+  - MVP / crude, straightforward solution.
+  - Resources are limited
+11. **Clean code is better than clever code**
+    
