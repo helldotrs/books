@@ -70,4 +70,6 @@
   - You should not hide the errors you cannot fix.
   - [...] you should share this [error] with the user [...] rather than returning a random guess [...] 
 15. **Avoid hand-hacking: write programs to write programs if you can**
+  - Compilers.
+  - ML
     
