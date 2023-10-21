@@ -67,5 +67,7 @@
   - Adhering to principle 9.
 13. **Make your code robust**
 14. **Repair what you can - but fail early and noisily**
+  - You should not hide the errors you cannot fix.
+  - [...] you should share this [error] with the user [...] rather than returning a random guess [...] 
 15. 
     
