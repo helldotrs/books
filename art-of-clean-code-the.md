@@ -65,5 +65,7 @@
   - Clever code shouldn't come at the cost of simplicity.
 12. **Design programs to connect with each other**
   - Adhering to principle 9.
-13. 
+13. **Make your code robust**
+14. **Repair what you can - but fail early and noisily**
+15. 
     
