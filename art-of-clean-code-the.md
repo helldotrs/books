@@ -61,4 +61,9 @@
   - MVP / crude, straightforward solution.
   - Resources are limited
 11. **Clean code is better than clever code**
+  - Modified from "Clarity is better than cleverness"
+  - Clever code shouldn't come at the cost of simplicity.
+12. **Design programs to connect with each other**
+  - Adhering to principle 9.
+13. 
     
