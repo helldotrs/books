@@ -16,3 +16,8 @@ def binary search(list, item):
             #note: wouldn't "elif < item:" make the code more readable?
             low = mid + 1
     return None #item doesn't exist
+
+my_list = [1, 3, 5, 7, 9] #Let's test it!
+
+print binary_search(my_list, 3) # -> 1
+print binart_search(my_list, -1) # -> None
