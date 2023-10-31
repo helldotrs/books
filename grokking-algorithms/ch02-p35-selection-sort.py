@@ -1,4 +1,4 @@
-my_list = [56,57,12,6,8,21,5,8,89]
+my_list = [56,57,0,12,6,-68,21,5,8,89]
 
 def get_smallest_value(list_):
     smallest        = list_[0]
@@ -9,7 +9,7 @@ def get_smallest_value(list_):
             smallest        = list_[a]
             smallest_index  = a
 
-    return list_[smallest_index] #FIXME: wont register "0" as smallest
+    return list_[smallest_index] 
 
 print(get_smallest_value(my_list))
 
