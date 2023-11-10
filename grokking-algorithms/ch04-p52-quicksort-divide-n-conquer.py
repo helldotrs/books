@@ -9,9 +9,11 @@ def biggest_square(array):
     while(x != y):
         if x < y:
             y / 2
-        else:
+        elif (x > y):
             x / 2
+        else:
+            return [x, y]
     
-    return [x, y]
+    return [0, 0]
 
 print(biggest_square(plot))
