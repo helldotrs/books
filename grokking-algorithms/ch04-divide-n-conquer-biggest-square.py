@@ -5,7 +5,7 @@ def is_rectangle(input_list):
 
     # Check if the list has exactly two elements
     if len(input_list) != 2:
-        raise ValueError("A rectangle must contain exactly two measurements")
+        raise ValueError("A rectangle must contain exactly two values")
 
     # Check if both elements are either positive integers or floats
     for element in input_list:
