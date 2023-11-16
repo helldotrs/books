@@ -7,6 +7,9 @@ def is_two_item_list(input_list):
 def is_rectangle(input_list):
     return is_two_item_list(input_list) and is_positive_number(input_list[0]) and is_positive_number(input_list[1])
 
+def is_square(input_list):
+    def is_rectangle and input_list[0] == input_list[1]
+
 # Tests
 """
 print(is_positive_number(5))
